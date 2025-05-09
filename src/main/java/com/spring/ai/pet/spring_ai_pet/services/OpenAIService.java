@@ -10,4 +10,5 @@ public interface OpenAIService {
   String getAnswer(String question);
   Answer getAnswer(Question question);
   Answer getAnswerUsingRAG(Question question);
+  Answer getAnswerUsingOpenAiFunctions(Question question);
 }
