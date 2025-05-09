@@ -10,4 +10,3 @@ In this project I use such LLM technologies and specifications as:
 4. RAG Expert (Writing more complex queries and obtaining relevant information)
 5. Connecting specific sites to search for the necessary information and setting up LLM for a specific case.
 6. Setting up Milvus to store created vectors and obtain documents based on similar vectors in the Milvus vector database
-7. Using OpenAI functions
